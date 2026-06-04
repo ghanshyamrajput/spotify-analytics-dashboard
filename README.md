@@ -21,7 +21,7 @@ This dashboard analyzes Spotify streaming data, artist performance, track charac
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard_Screenshot1.png)
+![Dashboard](Dashboard1.png)
 
 ## Key Insights
 - Analyzed 383B+ streams
